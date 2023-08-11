@@ -1,60 +1,76 @@
 # 目录
 
+- [目录](#目录)
 - [前言](#前言)
   - [Among Us](#among-us)
   - [提醒](#提醒)
 - [链接](#链接)
 - [模组](#模组)
-  - [1.TheOtherRoles](#1theotherroles-超多职业)
-  - [2.TownOfUs-R](#2townofus-r-我们的小镇)
-  - [3.Las Monjas](#3las-monjas-修道院)
-  - [4.Nebula On The Ship](#4nebula-on-the-ship-星云舰)
-  - [5.ExtremeRoles](#5extremeroles-极端职业)
-  - [6.SuperNewRoles](#6supernewroles-超新职业)
-  - [7.TheOtherUs](#7theotherus-我们的超多职业)
-  - [8.TownOfHost](#8townofhost)
-  - [9.TownOfHost-TheOtherRoles](#9townofhost---theotherroles)
-  - [10.AllTheRoles](#10alltheroles)
-  - [11.TownOfHost_Y](#11townofhost_y)
-  - [12.TownOfUsReworked](#12townofusreworked)
+  - [1.TheOtherRoles (超多职业)](#1theotherroles-超多职业)
+  - [2.TownOfUs-R (我们的小镇)](#2townofus-r-我们的小镇)
+  - [3.Las Monjas (修道院)](#3las-monjas-修道院)
+  - [4.ExtremeRoles (极端职业)](#4extremeroles-极端职业)
+  - [5.SuperNewRoles (超新职业)](#5supernewroles-超新职业)
+  - [6.TheOtherUs (我们的超多职业)](#6theotherus-我们的超多职业)
+  - [7.TownOfHost](#7townofhost)
+  - [8.AllTheRoles](#8alltheroles)
+  - [9.TownOfHost\_Y](#9townofhost_y)
+  - [10.TownOfUsReworked](#10townofusreworked)
+  - [11.Clash Of Gods](#11clash-of-gods)
+  - [12.Nebula-R-LTS](#12nebula-r-lts)
+  - [13.TownOfHostEdited-Xi](#13townofhostedited-xi)
+  - [14.TownOfHost Re-Edited](#14townofhost-re-edited)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
-  - [3.Chess](#3Chess)
-  - [4.Challenger](#4Challenger)
+  - [3.Chess](#3chess)
+  - [4.Challenger](#4challenger)
   - [5.Cursed-Among-Us](#5cursed-among-us)
   - [6.skeld.net](#6skeldnet)
-  - [7.HarryPotter](#7HarryPotter)
+  - [7.HarryPotter](#7harrypotter)
   - [8.TheOtherRoles GM](#8theotherroles-gm)
   - [9.TheEpicRoles](#9theepicroles)
   - [10.Peasmod](#10peasmod)
-  - [11.UltimateMods](#11UltimateMods)
+  - [11.UltimateMods](#11ultimatemods)
   - [12.TheOtherRoles GM-Haoming](#12theotherroles-gm-haoming)
-  - [13.Syyreth ModsAmongUs](#13syyreth-modsamongus)
+  - [13.Syyreth Mods AmongUs](#13syyreth-mods-amongus)
   - [14.PropHunt](#14prophunt)
   - [15.TownOfLoonie](#15townofloonie)
   - [16.TownOfHost Plus](#16townofhost-plus)
   - [17.TheOtherRoles CE](#17theotherroles-ce)
   - [18.TownOfHostEdited](#18townofhostedited)
+  - [19.TheOtherRoles MR](#19theotherroles-mr)
+  - [20.Nebula On The Ship (星云舰)](#20nebula-on-the-ship-星云舰)
+  - [21.TownOfHost - TheOtherRoles](#21townofhost---theotherroles)
+  - [22.AUModS](#22aumods)
+  - [23.TownOfSuper](#23townofsuper)
+  - [24.Revolutionary-host-roles](#24revolutionary-host-roles)
+  - [25.TheIdealShip](#25theidealship)
+  - [26.TownOfThem](#26townofthem)
+  - [27.Nebula-R](#27nebula-r)
+  - [28.Project Lotus](#28project-lotus)
 - [工具](#工具)
   - [１.BetterCrewLink](#１bettercrewlink)
   - [２.CrewLink](#２crewlink)
-  - [３.ReplayInWindow](#３ReplayInWindow)
+  - [３.ReplayInWindow](#３replayinwindow)
   - [４.ModManager](#４modmanager)
-  - [５.Levelimposter-editor](#５levelimposter-editor)
+  - [５.LevelImposter-Editor](#５levelimposter-editor)
   - [６.MultiClientInstancing](#６multiclientinstancing)
 - [地图](#地图)
   - [１.Submerged](#１submerged)
-  - [２.levelimposter](#２levelimposter)
+    - [各模组支持情况](#各模组支持情况)
+    - [与服务器的兼容](#与服务器的兼容)
+    - [语言的支持](#语言的支持)
+  - [２.LevelImposter](#２levelimposter)
 - [多语言样式声明](#多语言样式声明)
-  - [简体中文（SChinese）](#简体中文schinese)
-  - [繁體中文（TChinese）](#繁體中文tchinese)
-  - [Français（French）](#françaisfrench)
-  - [English](#english)
-  - [日本語（Japanese）](#日本語japanese)
-  - [Русский（Russian）](#русскийrussian)
-  - [Deutsch（German）](#deutschgerman)
-  - [Español（Spanish）](#españolspanish)
+          - [简体中文（SChinese）](#简体中文schinese)
+          - [繁體中文（TChinese）](#繁體中文tchinese)
+          - [Français（French）](#françaisfrench)
+          - [English](#english)
+          - [日本語（Japanese）](#日本語japanese)
+          - [Русский（Russian）](#русскийrussian)
+          - [Deutsch（German）](#deutschgerman)
+          - [Español（Spanish）](#españolspanish)
 
 # 前言
 
@@ -308,6 +324,50 @@ Among Us 支持版本：2023.7.12
 Among Us 支持版本：2023.7.12  
 更新状况：持续更新中
 
+
+## 11.Clash Of Gods
+
+![image](./Image/COG-BG.png)  
+
+[Github仓库 ( 点这 ) ](https://github.com/CognifyDev/ClashOfGods)  
+
+最新版本：没有发在Github上
+Among Us 支持版本：？  
+更新状况：持续更新中
+
+# 12.Nebula-R-LTS
+
+[Github仓库 ( 点这 ) ](https://github.com/ZsFabTest/Nebula-R-LTS)
+
+最新版本：v1.0.3.5
+Among Us 支持版本：2023.3.28
+更新状况：苟延残喘
+
+# 13.TownOfHostEdited-Xi
+
+![image](https://github.com/TOHEXGF/TownOfHostEditedXi/tree/TOHEXG/Resources/Images/TOHE-BG.jpg)
+
+[Github仓库 ( 点这 ) ](https://github.com/TOHEXGF/TownOfHostEditedXi)
+
+[官网 ( 点这 ) ](https://tohexgf.github.io)
+
+[友情链接](http://tohex.top)
+
+最新版本：v1.4.1
+Among Us 支持版本：2023.7.12
+更新状况：持续更新中
+
+> 就蛮离谱的就对了
+
+# 14.TownOfHost Re-Edited
+
+![image](https://github.com/Loonie-Toons/TownOfHost-ReEdited/tree/TOHE/Resources/Images/TOHE-BG.jpg)
+
+[Github仓库 ( 点这 ) ](https://github.com/Loonie-Toons/TownOfHost-ReEdited)
+
+最新版本：v2.5.0
+Among Us 支持版本：2023.7.12
+更新状况：持续更新中
 
 # 旧模组
 
@@ -745,6 +805,7 @@ Among Us 支持版本：2023.2.28
 > 天寸：我做的模组doge
 
 ## 26.TownOfThem
+
 ![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/JieGeLovesDengDuaLang/TownOfThem)  
@@ -754,6 +815,26 @@ Among Us 支持版本： /
 更新状况：？
 
 > 一个月没有动静了
+
+## 27.Nebula-R 
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/ZsFabTest/Nebula-R)  
+
+最新版本：v1.0.2.7
+Among Us 支持版本：2023.3.28 
+更新状况：停更
+
+## 28.Project Lotus
+
+![image](https://github.com/ImaMapleTree/Lotus/blob/main/assets/Lotus_Icon.png)
+
+[Github仓库 ( 点这 ) ](https://github.com/ImaMapleTree/Lotus)
+
+最新版本：v1.0.0
+Among Us 支持版本：2023.6.13
+更新状况：断更
+
+> Among Us短短几年历史上制作最精良的TOH系列模组
 
 # 工具
 
