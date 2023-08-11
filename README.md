@@ -103,11 +103,9 @@ Among Us 支持版本：
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
 
-最新版本：v4.3.2  
-Among Us 支持版本：2023.3.28  
+最新版本：v4.3.3  
+Among Us 支持版本：2023.7.12 
 更新状况：持续更新中  
-
-<!--
 
 > ### 职业
 >
@@ -141,19 +139,15 @@ Among Us 支持版本：2023.3.28
 > | Pursuer    | 追随者   | Invert        | 破平者   |              |          |
 > | Prosecutor | 检察官   |               |          |              |          |
 
--->
-
 ## 2.TownOfUs-R (我们的小镇)
 
 ![image](https://github.com/eDonnes124/Town-Of-Us-R/blob/master/Images/TOU-logo.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
-最新版本：v4.0.6  
+最新版本：v5.0.1
 Among Us 支持版本：2023.3.28   
-更新状况：持续更新中  
-
-<!--
+更新状况：持续更新中 (目前断更一个月)
 
 > ### 职业  
 >
@@ -181,16 +175,14 @@ Among Us 支持版本：2023.3.28
 > | Transporter    | 传送师   |                |          |                |          |              |          |
 > | Imitator       | 效颦者         |||||||
 
--->
-
 ## 3.Las Monjas (修道院)
 
 ![image](./Image/LasMonjas_banner.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)  
 
-最新版本：v3.1.7  
-Among Us 支持版本：2023.3.28  
+最新版本：v3.3.0
+Among Us 支持版本：2023.7.11 
 更新状况：持续更新中  
 
 > ### 切换汉语
@@ -202,8 +194,6 @@ Among Us 支持版本：2023.3.28
 > | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato | Zombie Laboratory | Monja Festival |
 > | -------------- | --------------- | ------------- | ---------- | ----------------- | -------------- |
 > | 夺旗模式       | 警察抓小偷      | 山丘之王      | 烫手山芋   | 僵尸实验室        | 修女节         |
->
-> <!--
 >
 > ### 职业
 >
@@ -238,212 +228,86 @@ Among Us 支持版本：2023.3.28
 > | Amuesiac        | 失忆者   | Stranded      | 探险者     | Paintall       | 彩弹人 |
 > | Seeker          | 寻找者   | Monja         | 修女       | Electrician    | 电工   |
 >
-> -->
->
 > ### 千年隼号地图
 > ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
 
-
-## 4.Nebula On The Ship (星云舰)
-
-![image](./Image/Nebula.png)  
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
-
-最新版本：v2.3.1  
-Among Us 支持版本：2023.3.28   
-更新状况：可能停更（作者已发通知）
-
-<!--
-
-> ### 职业
->
-> | Impostors     | 内鬼职业   | Crewmates    | 船员职业   | Neutral       | 中立职业   |
-> | ------------- | ---------- | ------------ | ---------- | ------------- | ---------- |
-> | Bounty Hunter | 赏金猎人   | Agent        | 代理人     | Arsonist      | 纵火犯     |
-> | Camouflager   | 隐蔽者     | Alien        | 外星人     | Avenger       | 复仇者     |
-> | Cleaner       | 清理者     | Bait         | 诱饵       | Empiric       | 疫医       |
-> | Damned        | 受诅咒者   | Busker       | 街头艺人   | Chain Shifter | 连环交换师 |
-> | Disturber     | 干扰者     | Comet        | 彗星之子   | Jackal        | 豺狼       |
-> | Eraser        | 抹除者     | Doctor       | 医学家     | Jester        | 小丑       |
-> | Evil Ace      | 密命王牌   | Guardian     | 特工       | Opportunist   | 投机者     |
-> | Evil Guesser  | 邪恶的赌怪 | Mayor        | 市长       | Sidekick      | 跟班       |
-> | Evil Trapper  | 邪恶陷阱师 | Navvy        | 修理工     | Vulture       | 秃鹫       |
-> | Jailer        | 狱卒       | Necromancer  | 死灵法师   |               |            |
-> | Marionette    | 木偶师     | Nice Guesser | 正义的赌怪 |               |            |
-> | Morphing      | 化形者     | Nice Trapper | 正义陷阱师 |               |            |
-> | Painter       | 画皮师     | Oracle       | 占卜师     |               |            |
-> | Raider        | 强盗       | Provocateur  | 挑衅者     |               |            |
-> | Reaper        | 送葬者     | Psychic      | 通灵师     |               |            |
-> | Sniper        | 狙击手     | Seer         | 灵媒       |               |            |
-> |               |            | Sheriff      | 警长       |               |            |
-> |               |            | Spy          | 卧底       |               |            |
-> |               |            | Madmate      | 叛徒       |               |            |
->
-> | Secondary | 附加职业 | Ghost       | 亡灵职业 |
-> | --------- | -------- | ----------- | -------- |
-> | Drunk     | 醉鬼     | Poltergeist | 捣蛋鬼   |
-> | Guesser   | 赌怪     |             |          |
-> | Lover     | 恋人     |             |          |
-> | Trilemma  | 三角恋   |             |          |
-
--->
-
-## 5.ExtremeRoles (极端职业)
+## 4.ExtremeRoles (极端职业)
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
 ![image](Image/ExtremeRoles_banner.png)
 
-最新版本：v7.1.2.4  
-Among Us 支持版本：2023.3.28  
+最新版本：v8.2.0.4
+Among Us 支持版本：2023.7.12
 更新状况：持续更新中  
 
-## 6.SuperNewRoles (超新职业)
+## 5.SuperNewRoles (超新职业)
 
 ![image](Image/SNRImage.png)  
 
 [Github仓库 ( 点这 ) ](https://github.com/ykundesu/SuperNewRoles)
 
-最新版本：v1.7.2.0  
-Among Us 支持版本：2023.3.28  
+最新版本：v1.9.2.0
+Among Us 支持版本：2023.7.12 
 更新状况：持续更新中  
 
-> 来自日本，正常玩建议私服游玩。主要开发者同时也参与 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的开发。拥有 Host 模式，开启后只需要房主安装模组所有人都可以玩
+> 来自日本，正常玩建议私服游玩。主要开发者同时也参与 [TownOfHost](https://github.com/tukasa0001/TownOfHost)(已停更) 的开发。拥有 Host 模式，开启后只需要房主安装模组所有人都可以玩
 
-## 7.TheOtherUs (我们的超多职业)
+## 6.TheOtherUs (我们的超多职业)
 ![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
 
-最新版本：v1.2.7  
-Among Us 支持版本：2023.2.28  
-更新状况：持续更新  
+最新版本：v1.2.9.1
+Among Us 支持版本：2023.3.28  
+更新状况：停更嫌疑 (断更两个月) 
 
-<!--
-
-## 8.TheOtherRoles MR
-
-[Github仓库 ( 点这 ) ](https://github.com/miru-y/TheOtherRoles-MR)
-
-最新版本：v2.8.1  
-Among Us 支持版本：2022.10.25  
-更新状况：断更
-
--->
-
-## 8.TownOfHost
+## 7.TownOfHost
 
 ![image](Image/TownOfHost-Title.png)  
 
 [Github仓库 ( 点这 ) ](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v5.0.0  
-Among Us 支持版本：2023.3.28  
-更新状况：持续更新中  
+最新版本：v5.0.3
+Among Us 支持版本：2023.7.11  
+更新状况：持续更新中 (活了)
 
 > 来自日本，只需要房主安装模组，所有人都可以一起玩
 
-## 9.TownOfHost - TheOtherRoles
-
-[Github仓库 ( 点这 ) ](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
-
-最新版本：v0.9.3.11b  
-Among Us 支持版本：2023.2.28  
-更新状况：持续更新中  
-
-> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由来自各国的开发者共同开发，目前原主要开发者 [music-discussion](https://github.com/music-discussion) 几乎不再参与，来自韩国的 단풍잎 正在尝试开发新的 AmongUs Mod API
-
-## 10.AllTheRoles
+## 8.AllTheRoles
 
 ![image](https://github.com/Zeo666/AllTheRoles/raw/main/Images/ATR-logo.png)  
 
 [Github仓库 ( 点这 ) ](https://github.com/Zeo666/AllTheRoles)  
 
-最新版本：v0.10.3  
-Among Us 支持版本：2023.3.28  
+最新版本：v0.11.2
+Among Us 支持版本：2023.7.12  
 更新状况：持续更新中  
 
-> 建议私服游玩  
+> 建议私服游玩
+> 极 度 不 稳 定
 
-## 11.TownOfHost_Y
+## 9.TownOfHost_Y
 
 [Github仓库 ( 点这 ) ](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v412.9.1 
-Among Us 支持版本：2023.3.28  
-更新状况：即将停更（作者已发通知）  
+最新版本：v503.16
+Among Us 支持版本：2023.7.12  
+更新状况：持续更新中 (作者发停更通告骗人)
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，来自日本，由一人开发。~~可能是唯一一个会直播敲代码的模组~~
 
-<!--
 
-## 13.AUModS
-
-[Github仓库 ( 点这 ) ](https://github.com/AUModS/AUModS)  
-
-最新版本：v23.2.28  
-Among Us 支持版本：2023.2.28  
-更新状况：持续更新中  
-
->  基于 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 代码制作的模组，作者 tomarai 曾做过 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 的分支，[TheOtherRole GM](https://github.com/yukinogatari/TheOtherRoles-GM) 就是基于他的 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 分支做的分支
-
-## 14.TownOfSuper
-
-[Github仓库 ( 点这 ) ](https://github.com/reitou-mugicha/TownOfSuper)  
-
-最新版本：v1.3.1  
-Among Us 支持版本：2022.10.25  
-更新状况：停更
-
->  采用部分 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 代码制成的功能性模组
-
-## 15.Revolutionary-host-roles
-
-![image](https://raw.githubusercontent.com/sansaaaaai/Revolutionary-host-roles/main/Resources/RHRlogo.png)  
-[Github仓库 ( 点这 ) ](https://github.com/sansaaaaai/Revolutionary-host-roles)  
-
-最新版本：v  
-Among Us 支持版本：  
-更新状况：
-
-> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支
-
-
-## 16.TheIdealShip
-![image](https://github.com/TheIdealShipAU/TheIdealShip/raw/main/Images/TIS.png)  
-[Github仓库 ( 点这 ) ](https://github.com/TheIdealShipAU/TheIdealShip)  
-
-最新版本：v0.3.5  
-Among Us 支持版本：2023.2.28  
-更新状况：停更摆烂  
-
-> 天寸：我做的模组doge
-
--->
-
-## 12.TownOfUsReworked
+## 10.TownOfUsReworked
 
 ![image](https://github.com/AlchlcDvl/TownOfUsReworked/blob/master/Images/Reworked.png)  
 
 [Github仓库 ( 点这 ) ](https://github.com/AlchlcDvl/TownOfUsReworked)  
 
-最新版本：v0.3.1  
-Among Us 支持版本：2023.3.28  
-更新状况：持续更新中  
+最新版本：v0.4.5
+Among Us 支持版本：2023.7.12  
+更新状况：持续更新中
 
-<!-- 暂时注释，等出正式版再加
-
-## 19.TownOfThem
-![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/JieGeLovesDengDuaLang/TownOfThem)  
-
-最新版本：v  
-Among Us 支持版本：  
-更新状况：
-
--->
 
 # 旧模组
 
@@ -778,6 +642,118 @@ Among Us 支持版本：2023.3.28
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由一人开发的国人模组。几乎占据了大部分 Host 模组的玩家占比后突然停更。目前该模组的数个分支还在持续更新。
 
+## 19.TheOtherRoles MR
+
+[Github仓库 ( 点这 ) ](https://github.com/miru-y/TheOtherRoles-MR)
+
+最新版本：v2.8.1  
+Among Us 支持版本：2022.10.25  
+更新状况：断更
+
+## 20.Nebula On The Ship (星云舰)
+
+![image](./Image/Nebula.png)  
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
+
+最新版本：v2.3.1  
+Among Us 支持版本：2023.3.28   
+更新状况：停更
+
+> ### 职业
+>
+> | Impostors     | 内鬼职业   | Crewmates    | 船员职业   | Neutral       | 中立职业   |
+> | ------------- | ---------- | ------------ | ---------- | ------------- | ---------- |
+> | Bounty Hunter | 赏金猎人   | Agent        | 代理人     | Arsonist      | 纵火犯     |
+> | Camouflager   | 隐蔽者     | Alien        | 外星人     | Avenger       | 复仇者     |
+> | Cleaner       | 清理者     | Bait         | 诱饵       | Empiric       | 疫医       |
+> | Damned        | 受诅咒者   | Busker       | 街头艺人   | Chain Shifter | 连环交换师 |
+> | Disturber     | 干扰者     | Comet        | 彗星之子   | Jackal        | 豺狼       |
+> | Eraser        | 抹除者     | Doctor       | 医学家     | Jester        | 小丑       |
+> | Evil Ace      | 密命王牌   | Guardian     | 特工       | Opportunist   | 投机者     |
+> | Evil Guesser  | 邪恶的赌怪 | Mayor        | 市长       | Sidekick      | 跟班       |
+> | Evil Trapper  | 邪恶陷阱师 | Navvy        | 修理工     | Vulture       | 秃鹫       |
+> | Jailer        | 狱卒       | Necromancer  | 死灵法师   |               |            |
+> | Marionette    | 木偶师     | Nice Guesser | 正义的赌怪 |               |            |
+> | Morphing      | 化形者     | Nice Trapper | 正义陷阱师 |               |            |
+> | Painter       | 画皮师     | Oracle       | 占卜师     |               |            |
+> | Raider        | 强盗       | Provocateur  | 挑衅者     |               |            |
+> | Reaper        | 送葬者     | Psychic      | 通灵师     |               |            |
+> | Sniper        | 狙击手     | Seer         | 灵媒       |               |            |
+> |               |            | Sheriff      | 警长       |               |            |
+> |               |            | Spy          | 卧底       |               |            |
+> |               |            | Madmate      | 叛徒       |               |            |
+>
+> | Secondary | 附加职业 | Ghost       | 亡灵职业 |
+> | --------- | -------- | ----------- | -------- |
+> | Drunk     | 醉鬼     | Poltergeist | 捣蛋鬼   |
+> | Guesser   | 赌怪     |             |          |
+> | Lover     | 恋人     |             |          |
+> | Trilemma  | 三角恋   |             |          |
+
+## 21.TownOfHost - TheOtherRoles
+
+[Github仓库 ( 点这 ) ](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
+
+最新版本：v0.9.3.11b  
+Among Us 支持版本：2023.2.28  
+更新状况：断更 (已公共存档) 
+
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由来自各国的开发者共同开发，目前原主要开发者 [music-discussion](https://github.com/music-discussion) 几乎不再参与，来自韩国的 단풍잎 正在尝试开发新的 AmongUs Mod API
+
+## 22.AUModS
+
+[Github仓库 ( 点这 ) ](https://github.com/AUModS/AUModS)  
+
+最新版本：v23.2.28.0  
+Among Us 支持版本：2023.2.28  
+更新状况：停更
+
+>  基于 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 代码制作的模组，作者 tomarai 曾做过 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 的分支，[TheOtherRole GM](https://github.com/yukinogatari/TheOtherRoles-GM) 就是基于他的 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 分支做的分支
+
+## 23.TownOfSuper
+
+[Github仓库 ( 点这 ) ](https://github.com/reitou-mugicha/TownOfSuper)  
+
+最新版本：v1.3.1  
+Among Us 支持版本：2022.10.25  
+更新状况：停更
+
+>  采用部分 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 代码制成的功能性模组
+
+## 24.Revolutionary-host-roles
+
+![image](https://raw.githubusercontent.com/sansaaaaai/Revolutionary-host-roles/main/Resources/RHRlogo.png)  
+[Github仓库 ( 点这 ) ](https://github.com/sansaaaaai/Revolutionary-host-roles)  
+
+最新版本：第一版
+Among Us 支持版本：2023.3.28
+更新状况：停更
+
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支
+> 四月以后一动不动
+
+
+## 25.TheIdealShip
+![image](https://github.com/TheIdealShipAU/TheIdealShip/raw/main/Images/TIS.png)  
+[Github仓库 ( 点这 ) ](https://github.com/TheIdealShipAU/NextShip)  
+
+最新版本：v0.3.5  
+Among Us 支持版本：2023.2.28  
+更新状况：停更摆烂
+
+> 天寸：我做的模组doge
+
+## 26.TownOfThem
+![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/JieGeLovesDengDuaLang/TownOfThem)  
+
+最新版本：无
+Among Us 支持版本： / 
+更新状况：？
+
+> 一个月没有动静了
 
 # 工具
 
